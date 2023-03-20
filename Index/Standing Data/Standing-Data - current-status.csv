@@ -1,0 +1,75 @@
+Current State,User Currently With,Status,Status (Updated)
+Saved,NA,Not submitted,SR Created - Accounting unit
+Sent to Spending Team Secretary,Spending Team Secretary (Start),In process,Under Review - GDPA
+Revoked,Ministry,Revoked,Revoked - AU
+Approval No Issued,Ministry - Approved,Approved,Approved - Inactive
+Output ID issued,Ministry - Rejected,Rejected,Rejected - Inactive
+Sent Back To Requesting Entity For Second Round,Ministry,Approved,Tender Preparation - Accounting unit
+Sent to Spend Analyst,Spend Analyst,In process,Under Review - GDPA
+Returned to Requester for Question by Analyst,Ministry,In process,Returned - Accounting Unit
+Recommended for Approval by Analyst,Director of Spending,In process,Under Review - GDPA
+Recommended for Rejection by Analyst,Director of Spending,In process,Under Review - GDPA
+Amended by Analyst,Director of Spending,In process,Under Review - GDPA
+Forwarded to Price Evaluation Committee,Price Evaluation Committee,In process,Under Review - GDPA
+Recommended for Approval by Price Evaluation Committee,Director of Spending,In process,Under Review - GDPA
+Recommended for Rejection by Price Evaluation Committee,Director of Spending,In process,Under Review - GDPA
+Amended by Price Evaluation Committee,Director of Spending,In process,Under Review - GDPA
+Forwarded to Engineering Price Evaluation Directorate,Engineering Price Evaluation Directorate,In process,Under Review - EPED
+Recommended for approval by Engineering Price Evaluation Directorate,Director of Spending,In process,Under Review - GDPA
+Recommended for rejection by Engineering Price Evaluation Directorate,Director of Spending,In process,Under Review - GDPA
+Amended by Engineering Price Evaluation Directorate,Director of Spending,In process,Under Review - GDPA
+Forwarded to Publications Price Evaluation Directorate,Publications Price Evaluation Directorate,In process,Under Review - PPED
+Recommended for approval by Publications Price Evaluation Directorate,Director of Spending,In process,Under Review - GDPA
+Recommended for rejection by Publications Price Evaluation Directorate,Director of Spending,In process,Under Review - GDPA
+Amended and Recommended for Approval by Publication Price Evaluation Directorate,Director of Spending,In process,Under Review - GDPA
+Pec Questioned By Director Of Spending,Price Evaluation Committee,In process,Under Review - GDPA
+Eped Questioned By Director Of Spending,Engineering Price Evaluation Directorate,In process,Under Review - EPED
+Sent back to Publications Price Evaluation Directorate for Questioning,Publications Price Evaluation Directorate,In process,Under Review - EPED
+Questioned By Gd Of Pa,Director of Spending,In process,Under Review - GDPA
+Returned to Requester for Question by Director of Spending,Ministry,In process,Returned - Accounting Unit
+Recommended for Approval by Director of Spending,Director General,In process,Under Review - GDPA
+Recommended for Rejection by Director of Spending,Director General,In process,Under Review - GDPA
+Amended by Director of Spending,Director General,In process,Under Review - GDPA
+Returned to Requester for Question by GD of Pa,Ministry,In process,Returned - Accounting Unit
+Recommended For Approval By Gd Of Pa,Minister of Finance,In process,Under Review - Minister of Finance
+Recommended For Rejection By Gd Of Pa,Minister of Finance,In process,Under Review - Minister of Finance
+Amended by GDoPA,Minister of Finance,In process,Under Review - Minister of Finance
+Approved by Minister of Finance,Spend Analysts (End),In process,Responding to AU - GDPA
+Rejected by Minister of Finance,Ministry - Rejected,Rejected,Rejected
+Amended and Approved by Minister of Finance,Spend Analysts (End),In process,Responding to AU- GDPA
+Returned To Gd Of Pa For Questioning By Minister Of Finance,Director General,In process,Under Review - GDPA
+Recommended for Approval by Minister of Finance,Council of Ministers,In process,Under Review - CoM
+Amended by Minister of finance,Council of Ministers,In process,Under Review - CoM
+Recommended For Rejection By Minister Of Finance,Council of Ministers,In process,Under Review - CoM
+Recommended for Pending Tender by Minister of Finance,Council of Ministers,In process,Under Review - CoM
+Sent To Price Evaluation Committee For Reevaluation By Minister Of Finance,Price Evaluation Committee,In process,Under Review - GDPA
+Pending Tender,Spend Analysts (End),In process,Final Step - GDPA
+Approved by Council of Ministers,Analysts (End),In process,Final Step - GDPA
+Rejected by Council of Ministers,Ministry - Rejected,Rejected,Rejected
+Amended and Approved by Council of Ministers,Spend Analysts (End),In process,Final Step - GDPA
+Pending Tender by Council of Ministers,Spend Analysts (End),In process,Final Step - GDPA
+Sent to Diwan for Review,Ministry Diwan,Not submitted,Under Review - Ministry Diwan
+Returned Back To Initiator For Question,Governorate,Not submitted,Returned - Accounting Unit
+Sent to Treasury for Audit,Treasury,Approved,Approved - Inactive
+Forwarded to Ministry Diwan Decision Maker,Ministry Decision Maker,Not submitted,Under Review - Ministry Diwan
+Recommended for Approval by Diwan Reviewers,Ministry Decision Maker,Not submitted,Under Review - Ministry Diwan
+Recommended for Rejection by Diwan Reviewers,Ministry Decision Maker,Not submitted,Under Review - Ministry Diwan
+Returned Back To Diwan Reviewer For Question,Diwan Reviewer,Not submitted,Under Review - Ministry Diwan
+Rejected By Diwan Decision Maker,Ministry - Rejected,Not submitted,Accounting Unit - Rejected
+Returned back to Initiator for Question by Ministry Diwan Decision Maker,Accounting Unit,Not submitted,Returned - Accounting Unit
+Recommended For Approval By Ministry Diwan Reviewer,Ministry Decision Maker,In process,Under Review - Ministry Diwan
+Forwarded To Minister Of Finance,Minister of Finance,In process,Under review - Minister's Office
+Complete And Sent Back To Requester For Pr Submission,Ministry - Approved,Approved,Accounting Unit - Returned for PR Submission
+Scribe Has Taken Action,Director General,In process,GDPA - Under Review
+Recommended For Rejection By Ministry Diwan Reviewer,Ministry Decision Maker,Not submitted,Ministry Diwan - Under Review
+Forwarded To Ministry Diwan Reviewer,Ministry Diwan Reviewer,Not submitted,
+Returned Back To Child Accounting Unit For Question ,Requesting Entity,In process,
+Sent To Parent Accounting Unit For Review ,Parent accounting Unit,In process,
+Sent To Analyst For Reevaluation By Minister Of Finance,Spending Analyst,In process,
+Rejected By Gd Of Pa,NA,,
+Approved By Gd Of Pa,NA,,
+Returned Back To Analyst For Question By Director Of Spending,Spend Analyst,In process,
+Eped Questioned By Analyst,Engineering Price Evaluation Directorate,In process,
+Recommended For Approval By Parent Accounting Unit ,Ministry Diwan Reviewer,Not submitted,
+Pec Questioned By Analyst,Price Evaluation Committee,In process,
+Pped Questioned By Analyst,Publications Price Evaluation Directorate,In process,
