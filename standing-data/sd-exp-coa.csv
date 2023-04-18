@@ -1,0 +1,689 @@
+cat_eng,cat_kd,form,cat,chapter,material,type,type_detail,account_code
+Expenses,نفقات,2,00,00,00,00,00,2-00-00-00-00-00
+Current expenditures,نفقات جارية,2,01,00,00,00,00,2-01-00-00-00-00
+Employees compensation,تعويضات الموظفين,2,01,01,00,00,00,2-01-01-00-00-00
+Salaries and wages,الرواتب والاجور,2,01,01,01,00,00,2-01-01-01-00-00
+Salaries,الرواتب,2,01,01,01,01,00,2-01-01-01-01-00
+The rewards for the associates,المكافات للمنتسبين,2,01,01,02,00,00,2-01-01-02-00-00
+The wages of the contractors,اجور المتعاقدين,2,01,01,03,00,00,2-01-01-03-00-00
+Lectures wages,اجور المحاضرات,2,01,01,04,00,00,2-01-01-04-00-00
+Examination fees,اجور الامتحانات,2,01,01,05,00,00,2-01-01-05-00-00
+The fees of the committees,اجور اللجان,2,01,01,06,00,00,2-01-01-06-00-00
+The metaphors are academic,المجازين دراسيا,2,01,01,07,00,00,2-01-01-07-00-00
+Local users wages,اجور المستخدمين المحليين,2,01,01,08,00,00,2-01-01-08-00-00
+The additional works,الاعمال الاضافية,2,01,01,09,00,00,2-01-01-09-00-00
+Allocations,المخصصات ,2,01,01,10,00,00,2-01-01-10-00-00
+Risk allocations,مخصصات الخطورة,2,01,01,10,01,00,2-01-01-10-01-00
+Housing allocations,مخصصات السكن ,2,01,01,10,02,00,2-01-01-10-02-00
+Hospitality allocations,مخصصات الضيافة,2,01,01,10,03,00,2-01-01-10-03-00
+Exceptional allocations,مخصصات استثنائية ,2,01,01,10,04,00,2-01-01-10-04-00
+Control allocations,مخصصات رقابية,2,01,01,10,05,00,2-01-01-10-05-00
+Position allocations,مخصصات المنصب ,2,01,01,10,06,00,2-01-01-10-06-00
+University service allocations,مخصصات الخدمة الجامعية,2,01,01,10,07,00,2-01-01-10-07-00
+Expenses instead of security risk,نفقات بدل خطورة امنية,2,01,01,10,08,00,2-01-01-10-08-00
+Cutting allocations,مخصصات مقطوعة ,2,01,01,10,09,00,2-01-01-10-09-00
+External service allocations,مخصصات الخدمة الخارجية,2,01,01,10,10,00,2-01-01-10-10-00
+Little allocations,مخصصات الارزاق,2,01,01,10,11,00,2-01-01-10-11-00
+Geographical site allocations,مخصصات الموقع الجغرافي,2,01,01,10,12,00,2-01-01-10-12-00
+Classroom allocations,مخصصات صنف طبابة,2,01,01,10,13,00,2-01-01-10-13-00
+Certificate allocations,مخصصات الشهادة,2,01,01,10,14,00,2-01-01-10-14-00
+Craft allocations,مخصصات حرفة,2,01,01,10,15,00,2-01-01-10-15-00
+Processing allocations (marital),مخصصات الاعالة (الزوجية),2,01,01,10,16,00,2-01-01-10-16-00
+Children's allocations,مخصصات الاطفال,2,01,01,10,17,00,2-01-01-10-17-00
+Professional allocations,مخصصات مهنية,2,01,01,10,18,00,2-01-01-10-18-00
+Presidential allocations,مخصصات رئاسية,2,01,01,10,19,00,2-01-01-10-19-00
+Engineering allocations,مخصصات هندسية,2,01,01,10,20,00,2-01-01-10-20-00
+Special allocations,مخصصات خاصة,2,01,01,10,21,00,2-01-01-10-21-00
+Provisions not to practice a profession,مخصصات عدم مزاولة مهنة,2,01,01,10,22,00,2-01-01-10-22-00
+Transport allocations,مخصصات نقل,2,01,01,10,23,00,2-01-01-10-23-00
+The allocations for the scientific title,مخصصات اللقب العلمي,2,01,01,10,24,00,2-01-01-10-24-00
+Insurance,التأمين,2,01,01,11,00,00,2-01-01-11-00-00
+life insurance,التأمين على الحياة,2,01,01,11,01,00,2-01-01-11-01-00
+Insurance against accidents and injuries,التأمين ضد الحوادث و الاصابات,2,01,01,11,02,00,2-01-01-11-02-00
+health insurance,التأمين الصحي,2,01,01,11,03,00,2-01-01-11-03-00
+Government retirement contributions,مساهمات التقاعد الحكومية,2,01,01,12,00,00,2-01-01-12-00-00
+Service supplies,المستلزمات الخدمية ,2,01,02,00,00,00,2-01-02-00-00-00
+Travel expenses,نفقات السفر,2,01,02,01,00,00,2-01-02-01-00-00
+Night expenditures,النفقات الليلية ,2,01,02,01,01,00,2-01-02-01-01-00
+Transportation expenses,نفقات وسائط النقل ,2,01,02,01,02,00,2-01-02-01-02-00
+Housing expenses,نفقات السكن,2,01,02,01,03,00,2-01-02-01-03-00
+Other expenditures,النفقات الاخرى ,2,01,02,01,04,00,2-01-02-01-04-00
+Divide and expenditures of the disposal,مخصصات ونفقات الايفاد,2,01,02,02,00,00,2-01-02-02-00-00
+Night expenditures,النفقات الليلية ,2,01,02,02,01,00,2-01-02-02-01-00
+Transportation expenses,نفقات وسائط النقل ,2,01,02,02,02,00,2-01-02-02-02-00
+Housing expenses,نفقات السكن,2,01,02,02,03,00,2-01-02-02-03-00
+Other expenditures,النفقات الاخرى ,2,01,02,02,04,00,2-01-02-02-04-00
+Transitional expenses,نفقات الانتقال ,2,01,02,03,00,00,2-01-02-03-00-00
+Night expenditures,النفقات الليلية ,2,01,02,03,01,00,2-01-02-03-01-00
+Transportation,اجوروسائط النقل ,2,01,02,03,02,00,2-01-02-03-02-00
+Other expenditures,النفقات الاخرى ,2,01,02,03,03,00,2-01-02-03-03-00
+Publishing and media,النشر والاعلام,2,01,02,04,00,00,2-01-02-04-00-00
+Publishing expenses,نفقات النشر ,2,01,02,04,01,00,2-01-02-04-01-00
+Media expenses,نفقات الاعلام,2,01,02,04,02,00,2-01-02-04-02-00
+Participate in newspapers,الاشتراك في الصحف ,2,01,02,04,03,00,2-01-02-04-03-00
+Buildings and lands,أيجار المباني والاراضي,2,01,02,05,00,00,2-01-02-05-00-00
+Rent buildings,ايجار المباني,2,01,02,05,01,00,2-01-02-05-01-00
+Rent warehouses,ايجار المخازن,2,01,02,05,02,00,2-01-02-05-02-00
+Other rents,ايجارات اخرى,2,01,02,05,03,00,2-01-02-05-03-00
+Land rental,ايجار الاراضي,2,01,02,05,04,00,2-01-02-05-04-00
+"Ijar machines, equipment and means of transportation",أيجار مكائن ومعدات ووسائط النقل ,2,01,02,06,00,00,2-01-02-06-00-00
+Rent machines and equipment,ايجار المكائن و المعدات,2,01,02,06,01,00,2-01-02-06-01-00
+Electronic computers rent,ايجار الحاسبات الالكترونية,2,01,02,06,02,00,2-01-02-06-02-00
+Furniture rent and supplies,ايجار اثاث و لوازم,2,01,02,06,03,00,2-01-02-06-03-00
+Other rents,ايجارات اخرى,2,01,02,06,04,00,2-01-02-06-04-00
+Rent and transportation,ايجار وسائط النقل,2,01,02,06,05,00,2-01-02-06-05-00
+Official entertainment,الترفيه الرسمي,2,01,02,07,00,00,2-01-02-07-00-00
+"Hospitality, delegations and public relations",الضيافة و الوفود و العلاقات العامة,2,01,02,07,01,00,2-01-02-07-01-00
+Celebrations,الاحتفالات,2,01,02,07,02,00,2-01-02-07-02-00
+Mail,البريد,2,01,02,08,00,00,2-01-02-08-00-00
+Stamps,طوابع بريدية,2,01,02,08,01,00,2-01-02-08-01-00
+Transfer diplomatic mail,نقل البريد الدبلوماسي ,2,01,02,08,02,00,2-01-02-08-02-00
+Communications and lightning,الاتصالات والبرق ,2,01,02,09,00,00,2-01-02-09-00-00
+Phone call wages,اجور المكالمات الهاتفية,2,01,02,09,01,00,2-01-02-09-01-00
+Monument and transfer of communications devices,نصب و نقل اجهزة الاتصالات,2,01,02,09,02,00,2-01-02-09-02-00
+Rent communication devices,ايجار اجهزة الاتصالات,2,01,02,09,03,00,2-01-02-09-03-00
+Direct transmission via satellite,النقل المباشر عبر الاقمار الصناعية,2,01,02,09,04,00,2-01-02-09-04-00
+Information network services,خدمات شبكة المعلومات,2,01,02,09,05,00,2-01-02-09-05-00
+Microwave network,شبكة الميكرويف,2,01,02,09,06,00,2-01-02-09-06-00
+Expert wages and consultants,أجور الخبراء والاستشاريين,2,01,02,10,00,00,2-01-02-10-00-00
+Privatization consultations,استشارات خصخصة,2,01,02,10,01,00,2-01-02-10-01-00
+Economic and financial consultations,استشارات اقتصادية ومالية,2,01,02,10,02,00,2-01-02-10-02-00
+Scientific consultations,الاستشارات العلمية,2,01,02,10,03,00,2-01-02-10-03-00
+Legal consultations (Lawyers' wages of attorney),أستشارات قانونية (اجور المحامين توكيل),2,01,02,10,04,00,2-01-02-10-04-00
+Other consultations,الاستشارات الاخرى,2,01,02,10,05,00,2-01-02-10-05-00
+Security services wages,أجور الخدمات الامنية ,2,01,02,11,00,00,2-01-02-11-00-00
+Wages guarding individuals,اجور حراسة الافراد,2,01,02,11,01,00,2-01-02-11-01-00
+Facilities wages,اجور حراسة المنشات,2,01,02,11,02,00,2-01-02-11-02-00
+Contributing to the cost of producing source oil source,المساهمة في كلفة أنتاج النفط الخام المصدر,2,01,02,12,00,00,2-01-02-12-00-00
+Contributing to the cost of producing source oil source,المساهمة في كلفة أنتاج النفط الخام المصدر,2,01,02,12,01,00,2-01-02-12-01-00
+Rent funds with banks,ايجار الصناديق لدى المصارف,2,01,02,13,00,00,2-01-02-13-00-00
+Conferences and seminars,المؤتمرات و الندوات,2,01,02,14,00,00,2-01-02-14-00-00
+Print,الطبع,2,01,02,15,00,00,2-01-02-15-00-00
+Subscribe to training courses,الاشتراك في الدورات التدريبية  ,2,01,02,16,00,00,2-01-02-16-00-00
+Survey and identify lands,مسح و تحديد الاراضي,2,01,02,17,00,00,2-01-02-17-00-00
+Witness transfer,نقل الشهود,2,01,02,18,00,00,2-01-02-18-00-00
+Cleaning the circle,تنظيف الدائرة,2,01,02,19,00,00,2-01-02-19-00-00
+"Determination, translation, and access",التعضيد و الترجمة و التاليف,2,01,02,20,00,00,2-01-02-20-00-00
+Bank services fees,اجور الخدمات المصرفية,2,01,02,21,00,00,2-01-02-21-00-00
+Affiliation wages to scientific institutions,اجور الانتساب الى المؤسسات العلمية,2,01,02,22,00,00,2-01-02-22-00-00
+Financial stamps printing,طبع الطوابع المالية,2,01,02,23,00,00,2-01-02-23-00-00
+Hype,الدعاية,2,01,02,24,00,00,2-01-02-24-00-00
+Forming tag,وسم المصوغات,2,01,02,25,00,00,2-01-02-25-00-00
+Facility protection guards wages,اجور حراس حماية المنشأت,2,01,02,26,00,00,2-01-02-26-00-00
+Other services (various),خدمات اخرى (المتنوعة),2,01,02,27,00,00,2-01-02-27-00-00
+City cleaning,تنظيف المدن,2,01,02,28,00,00,2-01-02-28-00-00
+Issues of commodity,المستلزمات السلعية,2,01,03,00,00,00,2-01-03-00-00-00
+Stations and publications,قرطاسية ومطبوعات,2,01,03,01,00,00,2-01-03-01-00-00
+Stationery,القرطاسية,2,01,03,01,01,00,2-01-03-01-01-00
+Publications,المطبوعات,2,01,03,01,02,00,2-01-03-01-02-00
+Books and magazines,كتب ومجلات,2,01,03,02,00,00,2-01-03-02-00-00
+Books,الكتب,2,01,03,02,01,00,2-01-03-02-01-00
+Magazines,المجلات,2,01,03,02,02,00,2-01-03-02-02-00
+documents,الوثائق,2,01,03,02,03,00,2-01-03-02-03-00
+Manuscripts,المخطوطات,2,01,03,02,04,00,2-01-03-02-04-00
+Microfilm movies,افلام الميكروفيلم,2,01,03,02,05,00,2-01-03-02-05-00
+Water and sewers,الماء والمجاري ,2,01,03,03,00,00,2-01-03-03-00-00
+Water wages,اجور الماء,2,01,03,03,01,00,2-01-03-03-01-00
+Sewerage wages,اجور المجاري,2,01,03,03,02,00,2-01-03-03-02-00
+electricity,الكهرباء ,2,01,03,04,00,00,2-01-03-04-00-00
+Electricity wages,اجور الكهرباء,2,01,03,04,01,00,2-01-03-04-01-00
+Expenses for importing electric power,نفقات أستيراد الطاقة الكهربائية ,2,01,03,04,02,00,2-01-03-04-02-00
+Fuel,الوقود,2,01,03,05,00,00,2-01-03-05-00-00
+Fuel,الوقود,2,01,03,05,01,00,2-01-03-05-01-00
+Fuel purchase expenses for electric power plants,نفقات شراء الوقود المستورد لمحطات توليد الطاقة الكهربائية,2,01,03,05,02,00,2-01-03-05-02-00
+Fuel import expenses,نفقات استيراد الوقود,2,01,03,05,03,00,2-01-03-05-03-00
+Clothing,الملابس,2,01,03,06,00,00,2-01-03-06-00-00
+Employee clothes,ملابس الموظفين,2,01,03,06,01,00,2-01-03-06-01-00
+Internal Security Forces Clothing,ملابس قوى الامن الداخلي,2,01,03,06,02,00,2-01-03-06-02-00
+Military clothes,ملابس العسكريين,2,01,03,06,03,00,2-01-03-06-03-00
+Other clothes,ملابس اخرى,2,01,03,06,04,00,2-01-03-06-04-00
+Food,الاغذية,2,01,03,07,00,00,2-01-03-07-00-00
+Feed the detainees and guests,اطعام الموقوفين والنزلاء,2,01,03,07,01,00,2-01-03-07-01-00
+Healthy nutrition,التغذية الصحية,2,01,03,07,02,00,2-01-03-07-02-00
+School nutrition,التغذية المدرسية,2,01,03,07,03,00,2-01-03-07-03-00
+Other foods,اغذية اخرى,2,01,03,07,04,00,2-01-03-07-04-00
+Control and prevention materials,مواد المكافحة والوقاية,2,01,03,08,00,00,2-01-03-08-00-00
+Control materials,مواد المكافحة ,2,01,03,08,01,00,2-01-03-08-01-00
+Prevention materials,مواد الوقاية,2,01,03,08,02,00,2-01-03-08-02-00
+Materials and supplies,المواد واللوازم,2,01,03,09,00,00,2-01-03-09-00-00
+Laboratory supplies,اللوازم المختبرية,2,01,03,09,01,00,2-01-03-09-01-00
+Medical supplies,اللوازم الطبية,2,01,03,09,02,00,2-01-03-09-02-00
+School Supplies,اللوازم المدرسية,2,01,03,09,03,00,2-01-03-09-03-00
+Industrial supplies,اللوازم الصناعية,2,01,03,09,04,00,2-01-03-09-04-00
+Agricultural supplies,اللوازم الزراعية,2,01,03,09,05,00,2-01-03-09-05-00
+Other supplies,اللوازم الاخرى,2,01,03,09,06,00,2-01-03-09-06-00
+Patient equipment,تجهيزات المرضى,2,01,03,10,00,00,2-01-03-10-00-00
+Patient clothing,ملابس المرضى,2,01,03,10,01,00,2-01-03-10-01-00
+Whites,بياضات,2,01,03,10,02,00,2-01-03-10-02-00
+Furniture,مفروشات,2,01,03,10,03,00,2-01-03-10-03-00
+school books,الكتب المدرسية,2,01,03,11,00,00,2-01-03-11-00-00
+pharmaceutical,الادوية,2,01,03,12,00,00,2-01-03-12-00-00
+Equipment and mathematical supplies,التجهيزات و اللوازم الرياضية,2,01,03,13,00,00,2-01-03-13-00-00
+Animal feed,علف الحيوانات,2,01,03,14,00,00,2-01-03-14-00-00
+Stations and students ’supplies,القرطاسية و لوازم الطلاب,2,01,03,15,00,00,2-01-03-15-00-00
+Washing supplies,لوازم الغسيل,2,01,03,16,00,00,2-01-03-16-00-00
+Guests and events equipment,تجهيزات النزلاء و الاحداث,2,01,03,17,00,00,2-01-03-17-00-00
+Weapons and Military (Military),الاسلحة و الاعتدة (العسكرية),2,01,03,18,00,00,2-01-03-18-00-00
+Female and record films,افلام روائية وتسجيلية,2,01,03,19,00,00,2-01-03-19-00-00
+Movies,افلام سينمائية,2,01,03,19,01,00,2-01-03-19-01-00
+documentaries,افلام وثائقية,2,01,03,19,02,00,2-01-03-19-02-00
+Calculator machines,الألات الحاسبة,2,01,03,20,00,00,2-01-03-20-00-00
+Printer machines/ computer,الألات الطابعة/ الكومبيوتر,2,01,03,21,00,00,2-01-03-21-00-00
+Photography and microfilm devices,اجهزة التصوير و الميكروفيلم,2,01,03,22,00,00,2-01-03-22-00-00
+Other small office appliances,أجهزة مكتبية صغيرة أخرى  ,2,01,03,23,00,00,2-01-03-23-00-00
+Asset maintenance,صيانة الموجودات,2,01,04,00,00,00,2-01-04-00-00-00
+Road maintenance and bridges,صيانة الطرق والجسور ,2,01,04,01,00,00,2-01-04-01-00-00
+Road Maintenance,صيانة الطرق,2,01,04,01,01,00,2-01-04-01-01-00
+Bridges maintenance,صيانة الجسور,2,01,04,01,02,00,2-01-04-01-02-00
+Highway Road Road maintenance,صيانة طريق المرور السريع,2,01,04,01,03,00,2-01-04-01-03-00
+Maintenance of water and electrical constituents,صيانة التأسيسات المائية والكهربائية,2,01,04,02,00,00,2-01-04-02-00-00
+Water foundations maintenance,صيانة التاسيسات المائية,2,01,04,02,01,00,2-01-04-02-01-00
+Electric foundations maintenance,صيانة التاسيسات الكهربائية,2,01,04,02,02,00,2-01-04-02-02-00
+Maintenance of transport media,صيانة وسائط النقل ,2,01,04,03,00,00,2-01-04-03-00-00
+Salon cars maintenance,صيانة سيارات الصالون,2,01,04,03,01,00,2-01-04-03-01-00
+Pregnancy cars maintenance,صيانة سيارات الحمل,2,01,04,03,02,00,2-01-04-03-02-00
+Maintenance of business cars,صيانة سيارات العمل,2,01,04,03,03,00,2-01-04-03-03-00
+Aircraft Maintenance,صيانة الطائرات,2,01,04,03,04,00,2-01-04-03-04-00
+Boat maintenance,صيانة الزوارق,2,01,04,03,05,00,2-01-04-03-05-00
+Maintenance of other transport media,صيانة وسائط النقل الاخرى,2,01,04,03,06,00,2-01-04-03-06-00
+Maintenance maintenance and irrigation projects,صيانة المبازل ومشاريع الري,2,01,04,04,00,00,2-01-04-04-00-00
+Maintenance of desalination projects (spiders),صيانة مشاريع التحلية (المبازل),2,01,04,04,01,00,2-01-04-04-01-00
+Maintenance of small irrigation projects,صيانة مشاريع الري الصغرى,2,01,04,04,02,00,2-01-04-04-02-00
+Maintenance of public benefit well projects,صيانة مشاريع ابار النفع العام,2,01,04,04,03,00,2-01-04-04-03-00
+Maintenance of dams,صيانة منشات السدود,2,01,04,04,04,00,2-01-04-04-04-00
+Oasis maintenance,صيانة الواحات,2,01,04,04,05,00,2-01-04-04-05-00
+Furniture maintenance,صيانة الاثاث,2,01,04,05,00,00,2-01-04-05-00-00
+Building Maintenance,صيانة المباني,2,01,04,06,00,00,2-01-04-06-00-00
+"Machinery maintenance, devices and machines",صيانة المكائن و الاجهزة و الالات,2,01,04,07,00,00,2-01-04-07-00-00
+Police weapons maintenance,صيانة أسلحة الشرطة ,2,01,04,08,00,00,2-01-04-08-00-00
+"Maintenance of gardens, parks and orchards",صيانة الحدائق و المتنزهات و البساتين,2,01,04,09,00,00,2-01-04-09-00-00
+Laboratory maintenance,صيانة المعامل,2,01,04,10,00,00,2-01-04-10-00-00
+Maintenance of radio and television stations,صيانة المحطات الاذاعية و التلفزيونية,2,01,04,11,00,00,2-01-04-11-00-00
+Maintenance of the sites and archaeological rolls,صيانة المواقع واللقى الأثرية,2,01,04,12,00,00,2-01-04-12-00-00
+Military weapons maintenance,صيانة الأسلحة العسكرية ,2,01,04,13,00,00,2-01-04-13-00-00
+"Maintenance of books, records and documents",صيانة الكتب والسجلات والوثائق,2,01,04,14,00,00,2-01-04-14-00-00
+Books maintenance,صيانة الكتب,2,01,04,14,01,00,2-01-04-14-01-00
+Record maintenance,صيانة السجلات,2,01,04,14,02,00,2-01-04-14-02-00
+Document maintenance,صيانة الوثائق,2,01,04,14,03,00,2-01-04-14-03-00
+Maintenance of other registration documents,صيانة وثائق التسجيل الاخرى,2,01,04,14,04,00,2-01-04-14-04-00
+Capital expenditures,النفقات الرأسمالية,2,01,05,00,00,00,2-01-05-00-00-00
+Buildings and construction,مبانى وإنشاءات,2,01,05,01,00,00,2-01-05-01-00-00
+Residential buildings,المباني السكنية,2,01,05,01,01,00,2-01-05-01-01-00
+Non -residential buildings,المباني غير السكنية,2,01,05,01,02,00,2-01-05-01-02-00
+Security barriers,الحواجز الأمنية,2,01,05,01,03,00,2-01-05-01-03-00
+Warfar and mines,ابار و مناجم,2,01,05,01,04,00,2-01-05-01-04-00
+Other construction,انشاءات أخرى,2,01,05,01,05,00,2-01-05-01-05-00
+Transport media,وسائط نقل ,2,01,05,02,00,00,2-01-05-02-00-00
+Salon cars,سيارات الصالون,2,01,05,02,01,00,2-01-05-02-01-00
+Pregnancy cars / ore,سيارات الحمل / اللوريات,2,01,05,02,02,00,2-01-05-02-02-00
+Work cars,سيارات العمل,2,01,05,02,03,00,2-01-05-02-03-00
+Buses,الحافلات ,2,01,05,02,04,00,2-01-05-02-04-00
+Cars with special specifications,سيارات ذات مواصفات خاصة,2,01,05,02,05,00,2-01-05-02-05-00
+Ships,السفن,2,01,05,02,06,00,2-01-05-02-06-00
+Boat,الزوارق,2,01,05,02,07,00,2-01-05-02-07-00
+Locomotives,القاطرات,2,01,05,02,08,00,2-01-05-02-08-00
+Wheels,العجلات,2,01,05,02,09,00,2-01-05-02-09-00
+Planes,الطائرات,2,01,05,02,10,00,2-01-05-02-10-00
+Bike and steam bicycles,الدراجات الهوائية و البخارية,2,01,05,02,11,00,2-01-05-02-11-00
+"Furniture, machinery, equipment and devices",الاثاث والآلات والمعدات والاجهزة,2,01,05,03,00,00,2-01-05-03-00-00
+Furniture,الاثاث,2,01,05,03,01,00,2-01-05-03-01-00
+Wooden furniture,الاثاث الخشبي,2,01,05,03,01,01,2-01-05-03-01-01
+Mineral furniture,الاثاث المعدني,2,01,05,03,01,02,2-01-05-03-01-02
+Other furniture,الاثاث الاخرى,2,01,05,03,01,03,2-01-05-03-01-03
+"Other devices, machines and equipment",الاجهزة والمكائن والمعدات الاخرى,2,01,05,03,02,00,2-01-05-03-02-00
+Machines,المكائن ,2,01,05,03,02,01,2-01-05-03-02-01
+The devices,الاجهزة,2,01,05,03,02,02,2-01-05-03-02-02
+Reproduction devices,اجهزة الاستنساخ,2,01,05,03,02,03,2-01-05-03-02-03
+Communication machines,الات الاتصال,2,01,05,03,02,04,2-01-05-03-02-04
+Electronic computers,الحاسبات الالكترونية,2,01,05,03,02,05,2-01-05-03-02-05
+Other large machines,آلات كبيرة أخرى,2,01,05,03,02,06,2-01-05-03-02-06
+Weapons and Minds (Police),الاسلحة و الاعتدة (الشرطة),2,01,05,03,02,07,2-01-05-03-02-07
+Other security equipment,معدات أمنية أخرى,2,01,05,03,02,08,2-01-05-03-02-08
+Theaters and their supplies,المسارح ولوازمها,2,01,05,03,03,00,2-01-05-03-03-00
+Theaters,المسارح ,2,01,05,03,03,01,2-01-05-03-03-01
+Musical devices,الاجهزة الموسيقية,2,01,05,03,03,02,2-01-05-03-03-02
+the animals,الحيوانات,2,01,05,05,00,00,2-01-05-05-00-00
+Lands,الاراضي,2,01,05,06,00,00,2-01-05-06-00-00
+Street spoiling,تبليط الشوارع,2,01,05,07,00,00,2-01-05-07-00-00
+"Grants, subsidies, debt service and other expenses",المنح والاعانات وخدمة الدين ومصروفات اخرى,2,01,06,00,00,00,2-01-06-00-00-00
+Grant,المنح,2,01,06,01,00,00,2-01-06-01-00-00
+Prisoner Corporation Scholarship,منحة مؤسسة السجناء,2,01,06,01,01,00,2-01-06-01-01-00
+Salaries of the Prisoners Corporation,رواتب مؤسسة السجناء,2,01,06,01,01,01,2-01-06-01-01-01
+Employment of Prisoners Corporation,تشغيلية مؤسسة السجناء,2,01,06,01,01,02,2-01-06-01-01-02
+Grant of Holy Slaves,منحة العتبات المقدسة,2,01,06,01,02,00,2-01-06-01-02-00
+The salaries of the sacred thresholds,رواتب العتبات المقدسة,2,01,06,01,02,01,2-01-06-01-02-01
+Operating expenses of sacred thresholds and honorable shrines,النفقات التشغيلية للعتبات المقدسة والمزارات الشريفة,2,01,06,01,02,02,2-01-06-01-02-02
+Tourism Authority grant,منحة هيئة السياحة,2,01,06,01,03,00,2-01-06-01-03-00
+Tourism Authority / salaries,هيئة السياحة / الرواتب,2,01,06,01,03,01,2-01-06-01-03-01
+ Tourism Authority / Operating Expenses, هيئة السياحة / النفقات التشغيلية ,2,01,06,01,03,02,2-01-06-01-03-02
+General Cultural Affairs Grant,منحة دار الشؤون الثقافية العامة,2,01,06,01,04,00,2-01-06-01-04-00
+ Public Cultural Affairs House / salaries, دار الشؤون الثقافية العامة / الرواتب ,2,01,06,01,04,01,2-01-06-01-04-01
+ Public Cultural Affairs House / operational expenses, دار الشؤون الثقافية العامة / النفقات التشغيلية ,2,01,06,01,04,02,2-01-06-01-04-02
+Cinema and theater Department grant,منحة دائرة السينما والمسرح,2,01,06,01,05,00,2-01-06-01-05-00
+ Cinema and Theater Department / salaries, دائرة السينما والمسرح / الرواتب ,2,01,06,01,05,01,2-01-06-01-05-01
+Cinema and theater / theater / operational expenses,دائرة السينما والمسرح / النفقات التشغيلية ,2,01,06,01,05,02,2-01-06-01-05-02
+Grant of Fine Arts Department,منحة دائرة الفنون التشكيلية,2,01,06,01,06,00,2-01-06-01-06-00
+ Department of Fine Arts / Salaries, دائرة الفنون التشكيلية / الرواتب,2,01,06,01,06,01,2-01-06-01-06-01
+ Fine Arts Department / Operational Expenses, دائرة الفنون التشكيلية / النفقات التشغيلية ,2,01,06,01,06,02,2-01-06-01-06-02
+The Iraqi Authority for Broadcasting and Transmission Services,منحة الهيئة العراقية لخدمات البث والارسال,2,01,06,01,07,00,2-01-06-01-07-00
+Salaries,الرواتب,2,01,06,01,07,01,2-01-06-01-07-01
+Operating expenses,النفقات التشغيلية,2,01,06,01,07,02,2-01-06-01-07-02
+Olympic Committee grant,منحة اللجنة الاولمبية ,2,01,06,01,08,00,2-01-06-01-08-00
+ Salaries, الرواتب ,2,01,06,01,08,01,2-01-06-01-08-01
+ Operating expenses, النفقات التشغيلية ,2,01,06,01,08,02,2-01-06-01-08-02
+Grant scientific and cultural organizations,منح المنظمات العلمية والثقافية ,2,01,06,01,09,00,2-01-06-01-09-00
+Scientific organizations,المنظمات العلمية ,2,01,06,01,09,01,2-01-06-01-09-01
+Cultural organizations,المنظمات الثقافية ,2,01,06,01,09,02,2-01-06-01-09-02
+Other organizations,المنظمات الأخرى,2,01,06,01,09,03,2-01-06-01-09-03
+the airport,المطار ,2,01,06,01,10,00,2-01-06-01-10-00
+ Salaries, الرواتب ,2,01,06,01,10,01,2-01-06-01-10-01
+ Operating expenses, النفقات التشغيلية ,2,01,06,01,10,02,2-01-06-01-10-02
+Commercial banks,المصارف التجارية,2,01,06,01,11,00,2-01-06-01-11-00
+ Salaries, الرواتب ,2,01,06,01,11,01,2-01-06-01-11-01
+ Operating expenses, النفقات التشغيلية ,2,01,06,01,11,02,2-01-06-01-11-02
+Salaries (Baghdad water circle),الرواتب ( دائرة ماء بغداد),2,01,06,01,11,03,2-01-06-01-11-03
+Operating expenses (Baghdad Water Circle),النفقات التشغيلية ( دائرة ماء بغداد),2,01,06,01,11,04,2-01-06-01-11-04
+Salaries (Baghdad sewage circuit),الرواتب ( دائرة مجاري بغداد),2,01,06,01,11,05,2-01-06-01-11-05
+Operating expenses (Baghdad Magi Department),النفقات التشغيلية ( دائرةمجاري بغداد),2,01,06,01,11,06,2-01-06-01-11-06
+Municipal institutions,المؤسسات البلدية,2,01,06,01,12,00,2-01-06-01-12-00
+ Salaries, الرواتب,2,01,06,01,12,01,2-01-06-01-12-01
+ Operating expenses, النفقات التشغيلية,2,01,06,01,12,02,2-01-06-01-12-02
+General Sewan Directorate,مديرية المجاري العامة ,2,01,06,01,13,00,2-01-06-01-13-00
+Salaries,الرواتب,2,01,06,01,13,01,2-01-06-01-13-01
+Operating expenses,النفقات التشغيلية,2,01,06,01,13,02,2-01-06-01-13-02
+General Water Directorate,مديرية الماء العامة,2,01,06,01,14,00,2-01-06-01-14-00
+Salaries,الرواتب,2,01,06,01,14,01,2-01-06-01-14-01
+Operating expenses,النفقات التشغيلية,2,01,06,01,14,02,2-01-06-01-14-02
+The expenses of the Paralympic Committee,نفقات اللجنة البارالمبية ,2,01,06,01,15,00,2-01-06-01-15-00
+Salaries,الرواتب,2,01,06,01,15,01,2-01-06-01-15-01
+Operating expenses,النفقات التشغيلية,2,01,06,01,15,02,2-01-06-01-15-02
+Granting the Iraqi Fund for External Development,منح الصندوق العراقي للتنمية الخارجية,2,01,06,01,16,00,2-01-06-01-16-00
+Grant the salaries of the Iraqi Foreign Development Fund,منح رواتب الصندوق العراقي للتنمية الخارجية,2,01,06,01,16,01,2-01-06-01-16-01
+Granting operational of the Iraqi Foreign Development Fund,منح تشغيلية الصندوق العراقي للتنمية الخارجية,2,01,06,01,16,02,2-01-06-01-16-02
+State Pension Fund Rent,منحة صندوق تقاعد موظفي الدولة,2,01,06,01,17,00,2-01-06-01-17-00
+Salaries of the state staff retirement fund,رواتب منتسبي صندوق تقاعد موظفي الدولة,2,01,06,01,17,01,2-01-06-01-17-01
+The operational expenses of the state staff retirement fund,النفقات التشغيلية لصندوق تقاعد موظفي الدولة,2,01,06,01,17,02,2-01-06-01-17-02
+The capital of public bodies and companies,راس مال الهيئات و الشركات العامة,2,01,06,01,18,00,2-01-06-01-18-00
+Hajj Authority grant,منحة هيئة الحج,2,01,06,01,19,00,2-01-06-01-19-00
+Capital of the lending fund,رأسمال صندوق اقراض الفلاحين الصغار,2,01,06,01,20,00,2-01-06-01-20-00
+Grant of popular clinics,منحة العيادات الشعبية,2,01,06,01,21,00,2-01-06-01-21-00
+Subsidies,الاعانات ,2,01,06,02,00,00,2-01-06-02-00-00
+Supporting the directorates of the Ministry of Electricity,دعم المديريات التابعة لوزارة الكهرباء,2,01,06,02,01,00,2-01-06-02-01-00
+Salaries of the Electricity Directorate,رواتب مديرية الكهرباء,2,01,06,02,01,01,2-01-06-02-01-01
+Electricity Directorate operation,تشغيلية مديرية الكهرباء,2,01,06,02,01,02,2-01-06-02-01-02
+Support of agricultural companies,دعم شركات الزراعة,2,01,06,02,02,00,2-01-06-02-02-00
+Agriculture / General Gardening and Forests / salaries,الزراعة / الشركة العامة للبستنة والغابات / الرواتب,2,01,06,02,02,01,2-01-06-02-02-01
+Agriculture / General Gardening and Forests / Operating Expenses,الزراعة / الشركة العامة للبستنة والغابات / النفقات التشغيلية,2,01,06,02,02,02,2-01-06-02-02-02
+Agriculture / General Company for Livestock Services / salaries,الزراعة / الشركة العامة لخدمات الثروة الحيوانية / الرواتب ,2,01,06,02,02,03,2-01-06-02-02-03
+Agriculture / General Company for Livestock Services / Operating Expenses,الزراعة / الشركة العامة لخدمات الثروة الحيوانية / النفقات التشغيلية,2,01,06,02,02,04,2-01-06-02-02-04
+Agriculture / General Veterinary Company / salaries,الزراعة / الشركة العامة للبيطرة / الرواتب,2,01,06,02,02,05,2-01-06-02-02-05
+Agriculture / General Veterinary Company / Operating Expenses,الزراعة / الشركة العامة للبيطرة / النفقات التشغيلية,2,01,06,02,02,06,2-01-06-02-02-06
+Agriculture / General Company for Industrial Crops / salaries,الزراعة / الشركة العامة للمحاصيل الصناعية / الرواتب,2,01,06,02,02,07,2-01-06-02-02-07
+Agriculture / General Company for Industrial Crops / Operating Expenses,الزراعة / الشركة العامة للمحاصيل الصناعية / النفقات التشغيلية ,2,01,06,02,02,08,2-01-06-02-02-08
+Sennacherib salaries,رواتب شركة سنحاريب,2,01,06,02,02,09,2-01-06-02-02-09
+Support other companies,دعم الشركات الاخرى,2,01,06,02,03,00,2-01-06-02-03-00
+Support farmers,دعم المزارعين,2,01,06,02,04,00,2-01-06-02-04-00
+Buy infected agricultural crops,شراء المحاصيل الزراعية المصابة ,2,01,06,02,04,01,2-01-06-02-04-01
+Poultry,الدواجن,2,01,06,02,04,02,2-01-06-02-04-02
+Seeds,البذور,2,01,06,02,04,03,2-01-06-02-04-03
+Sell ​​fertilizer at reduced prices,بيع الاسمدة باسعار مخفضة,2,01,06,02,04,04,2-01-06-02-04-04
+Reduce the price of pills,خفض سعر الحبوب,2,01,06,02,04,05,2-01-06-02-04-05
+Other agricultural subsidies,اعانات زراعية اخرى,2,01,06,02,04,06,2-01-06-02-04-06
+Support the prices of oil derivatives for farmers,دعم اسعار المشتقات النفطية للمزارعين,2,01,06,02,04,07,2-01-06-02-04-07
+Support to buy dates,دعم شراء التمور,2,01,06,02,04,08,2-01-06-02-04-08
+Support barley selling prices,دعم اسعار بيع الشعير,2,01,06,02,04,09,2-01-06-02-04-09
+Support for the purchase of the crops of wheat and the coffee from farmers,دعم شراء محصولي الحنطة والشلب من المزارعين,2,01,06,02,04,10,2-01-06-02-04-10
+Pesticide support,دعم المبيدات,2,01,06,02,04,11,2-01-06-02-04-11
+Support animal feed,دعم العلف الحيواني,2,01,06,02,04,12,2-01-06-02-04-12
+Supporting veterinary medicines,دعم الادوية البيطرية,2,01,06,02,04,13,2-01-06-02-04-13
+Support to buy and sell yellow corn,دعم شراء وبيع الذرة الصفراء,2,01,06,02,04,14,2-01-06-02-04-14
+"Supporting machines, equipment and agricultural machines",دعم المكائن والمعدات والالات الزراعية,2,01,06,02,04,15,2-01-06-02-04-15
+Support the benefits of small loans,دعم فوائد القروض الصغيرة,2,01,06,02,05,00,2-01-06-02-05-00
+The disputed areas,المناطق المتنازع عليها,2,01,06,02,06,00,2-01-06-02-06-00
+the benefits,الفوائد,2,01,06,03,00,00,2-01-06-03-00-00
+Benefits on external loans,فوائد على قروض الخارجية,2,01,06,03,01,00,2-01-06-03-01-00
+Benefits on World Bank loans,فوائد على قروض البنك الدولي ,2,01,06,03,01,01,2-01-06-03-01-01
+Benefits on International IMF loans,فوائد على قروض صندوق النقد الدولي,2,01,06,03,01,02,2-01-06-03-01-02
+Benefits on other foreign loans,فوائد على القروض الاجنبية الاخرى,2,01,06,03,01,03,2-01-06-03-01-03
+Benefits of bilateral agreements with Paris club countries and countries outside the Paris Club,فوائد مترتبة على اقساط اتفاقيات ثنائية مع دول نادي باريس ودول خارج نادي باريس,2,01,06,03,01,04,2-01-06-03-01-04
+The benefits of domestic bonds and transfers,فوائد السندات و الحوالات المحلية,2,01,06,03,02,00,2-01-06-03-02-00
+The benefits of local bonds and transfers,فوائد السندات والحوالات المحلية,2,01,06,03,02,01,2-01-06-03-02-01
+The benefits of loans,فوائد القروض ,2,01,06,03,03,00,2-01-06-03-03-00
+Benefits of bonds on extinguishing the debts of the private sector abroad,فوائد السندات على أطفاء ديون القطاع الخاص في الخارج,2,01,06,03,03,01,2-01-06-03-03-01
+Benefits of restructuring external debts under the Paris Club Electivity and outside the Paris Club,فوائد عن اعادة هيكلة ديون خارجية بموجب اتفاقية دول نادي باريس وخارج نادي باريس,2,01,06,03,03,02,2-01-06-03-03-02
+ Other expenses, المصروفات الأخرى,2,01,06,04,00,00,2-01-06-04-00-00
+Inconsising for non -affiliates and tags,مكافئآت لغير المنتسبين والاوسمة,2,01,06,04,01,00,2-01-06-04-01-00
+Rewards,مكافات ,2,01,06,04,01,01,2-01-06-04-01-01
+Informators and collaborators,مكافات المخبرين و المتعاونين,2,01,06,04,01,02,2-01-06-04-01-02
+Decorations,الاوسمة,2,01,06,04,01,03,2-01-06-04-01-03
+Student allocations and missions,مخصصات وبعثات الطلاب,2,01,06,04,02,00,2-01-06-04-02-00
+Students' allocations,مخصصات التلاميذ,2,01,06,04,02,01,2-01-06-04-02-01
+Students' missions,بعثات الطلاب ,2,01,06,04,02,02,2-01-06-04-02-02
+Other than life insurance premiums,أقساط التأمين على غير الحياة,2,01,06,04,03,00,2-01-06-04-03-00
+Insurance of personal responsibility,تامين المسؤولية الشخصية,2,01,06,04,03,01,2-01-06-04-03-01
+Insurance of funds and fixed assets,تامين الاموال و الموجودات الثابتة,2,01,06,04,03,02,2-01-06-04-03-02
+Compensation and fines,تعويضات وغرامات,2,01,06,04,04,00,2-01-06-04-04-00
+Kuwait War compensation,تعويضات حرب الكويت,2,01,06,04,04,01,2-01-06-04-04-01
+Victims compensation,تعويضات الضحايا,2,01,06,04,04,02,2-01-06-04-04-02
+Various compensation,تعويضات مختلفة ,2,01,06,04,04,03,2-01-06-04-04-03
+Fees and taxes,الرسوم والضرائب,2,01,06,04,05,00,2-01-06-04-05-00
+Judicial fees,الرسوم القضائية,2,01,06,04,05,01,2-01-06-04-05-01
+Taxes,الضرائب ,2,01,06,04,05,02,2-01-06-04-05-02
+Different responses,رديات مختلفة ,2,01,06,04,06,00,2-01-06-04-06-00
+Grant charities and religious societies,منح الجمعيات الخيرية والدينية ,2,01,06,04,07,00,2-01-06-04-07-00
+Other grants and transfers,منح وتحويلات أخرى ,2,01,06,04,08,00,2-01-06-04-08-00
+Scout activity,النشاط الكشفي,2,01,06,04,09,00,2-01-06-04-09-00
+Emergency reserves,أحتياطي الطوارئ,2,01,06,04,10,00,2-01-06-04-10-00
+Currency exchange damage,ضرر مبادلة العملة,2,01,06,04,11,00,2-01-06-04-11-00
+Financial stamps ’commission,عمولة بيع الطوابع المالية,2,01,06,04,12,00,2-01-06-04-12-00
+Dress extinguishing,اطفاء الديون,2,01,06,04,13,00,2-01-06-04-13-00
+Sports activities,النشاطات الرياضية ,2,01,06,04,14,00,2-01-06-04-14-00
+School activities,النشاطات المدرسية,2,01,06,04,15,00,2-01-06-04-15-00
+Cash settlement of small debts for the private sector abroad,التسوية النقدية للديون الصغيرة للقطاع الخاص في الخارج ,2,01,06,04,16,00,2-01-06-04-16-00
+ The debt of the Islamic Bank, مديونية البنك الاسلامي                                                ,2,01,06,04,17,00,2-01-06-04-17-00
+ The dues of the Arab Investment Investment Corporation, مستحقات المؤسسة العربية لضمان الاستثمار                               ,2,01,06,04,18,00,2-01-06-04-18-00
+ Czech Czech Loan Payment Expenses for our embassy in Prague, نفقات تسديد اصل قرض سي.اس.او.بي التشيكي لسفارتنا في براغ              ,2,01,06,04,19,00,2-01-06-04-19-00
+ Debt settlement abroad, تسوية الديون في الخارج                                                ,2,01,06,04,20,00,2-01-06-04-20-00
+ Old Treasury Transfers Grant, منحة اصدارات حوالات الخزينة القديمة                                        ,2,01,06,04,21,00,2-01-06-04-21-00
+ The loss resulting in replacing the Iraqi currency, الخسارة المترتبة في استبدال العملة العراقية                           ,2,01,06,04,22,00,2-01-06-04-22-00
+ Study wages for children working in missions abroad, اجور دراسية لاولاد العاملين في البعثات في الخارج                      ,2,01,06,04,23,00,2-01-06-04-23-00
+ The premiums of bilateral agreements with the countries of Paris and countries outside the Paris Club, اقساط الاتفاقيات الثنائية مع دول باريس ودول خارج نادي باريس            ,2,01,06,04,24,00,2-01-06-04-24-00
+Donations and subsidies,التبرعات والاعانات ,2,01,06,04,25,00,2-01-06-04-25-00
+War -affected compensation fund,صندوق تعويضات متضرري الحرب,2,01,06,04,26,00,2-01-06-04-26-00
+Joint financing expenses,نفقات التمويل المشترك,2,01,06,04,27,00,2-01-06-04-27-00
+"Obligations, contributions and external aid",الالتزامات والمساهمات والمساعدات الخارجية,2,01,07,00,00,00,2-01-07-00-00-00
+Arab contributions,المساهمات العربية ,2,01,07,01,00,00,2-01-07-01-00-00
+Arab League,الجامعة العربية ,2,01,07,01,01,00,2-01-07-01-01-00
+Arab Labor Organization,منظمة العمل العربية ,2,01,07,01,02,00,2-01-07-01-02-00
+Arab Scout Organization,المنظمة الكشفية العربية ,2,01,07,01,03,00,2-01-07-01-03-00
+Arab Economic Unity Council,مجلس الوحدة الاقتصادية العربية ,2,01,07,01,04,00,2-01-07-01-04-00
+Arab Organization for Agricultural Development,المنظمة العربية للتنمية الزراعية ,2,01,07,01,05,00,2-01-07-01-05-00
+The Arab Training Organization Exporting Oil (APAC),منظمة الاقطار العربية المصدرة للنفط (اوابك),2,01,07,01,06,00,2-01-07-01-06-00
+Arab Civil Aviation Authority,الهيئة العربية للطيران المدني ,2,01,07,01,07,00,2-01-07-01-07-00
+Arab Cities Organization,منظمة المدن العربية ,2,01,07,01,08,00,2-01-07-01-08-00
+The Arab Fund for Technical Aid to African Countries,الصندوق العربي للمعونة الفنية للدول الافريقية ,2,01,07,01,09,00,2-01-07-01-09-00
+The Arab Institute for Training and Statistical Research,المعهد العربي للتدريب والبحوث الاحصائية ,2,01,07,01,10,00,2-01-07-01-10-00
+The Judicial Authority of the Organization,الهيئة القضائية التابعة لمنظمة / الاوابك ,2,01,07,01,11,00,2-01-07-01-11-00
+The contribution of Iraq to the Fund of the League of Arab States,مساهمة العراق في صندوق جامعة الدول العربية ,2,01,07,01,12,00,2-01-07-01-12-00
+Arab Federation for Deaf Welfare,الاتحاد العربي للهيئات العاملة في رعاية الصم ,2,01,07,01,13,00,2-01-07-01-13-00
+The Arab Group for Supreme Equipment for Control and Accounting,المجموعة العربية للاجهزة العليا للرقابة والمحاسبة ,2,01,07,01,14,00,2-01-07-01-14-00
+Arab Federation for Exhibitions and International Conferences,الاتحاد العربي للمعارض والمؤتمرات الدولية,2,01,07,01,15,00,2-01-07-01-15-00
+Arab Federation for Fish Products,الاتحاد العربي لمنتجي الاسماك ,2,01,07,01,16,00,2-01-07-01-16-00
+The Arab Center for Studies Dry Regions and Landy Lands,المركز العربي للدراسات المناطق الجافة والاراضي القاحلة ,2,01,07,01,17,00,2-01-07-01-17-00
+The Council of Arab Environment Ministers,مجلس وزراء البيئة العرب,2,01,07,01,18,00,2-01-07-01-18-00
+Arab Atomic Energy Authority,الهيئة العربية للطاقة الذرية ,2,01,07,01,19,00,2-01-07-01-19-00
+Regional Center for Radiolets in Tunisia,المركز الاقليمي للنظائر المشعة في تونس ,2,01,07,01,20,00,2-01-07-01-20-00
+The Council of Arab Interior Ministers,مجلس وزراء الداخلية العرب ,2,01,07,01,21,00,2-01-07-01-21-00
+The Arab Federation for Physical and Sports Education,الأتحاد العربي للتربية البدنية والرياضية ,2,01,07,01,22,00,2-01-07-01-22-00
+Arab Organization for Administrative Development,المنظمة العربية للتنمية الأدارية,2,01,07,01,23,00,2-01-07-01-23-00
+The Arab Parliamentary Union,الأتحاد البرلماني العربي,2,01,07,01,24,00,2-01-07-01-24-00
+The Association of Arab Economic and Social Institutes and Centers,رابطة المعاهد والمراكز العربية الأقتصادية والأجتماعية ,2,01,07,01,25,00,2-01-07-01-25-00
+Arab Planning Institute / Kuwait,المعهد العربي للتخطيط / الكويت ,2,01,07,01,26,00,2-01-07-01-26-00
+"Arab League Educational, Cultural and Scientific Organization",المنظمة العربية للتربية والثقافة والعلوم ,2,01,07,01,27,00,2-01-07-01-27-00
+"Environmental, Housing and Sustainable Development Department of the General Secretariat of the Arab League",أدارة البيئة والأسكان والتنمية المستدامة التابع للأمانة العامة للجامعة العربية ,2,01,07,01,28,00,2-01-07-01-28-00
+Arab Organization for Industrial Development and Mining,المنظمة العربية للتنمية الصناعية والتعدين ,2,01,07,01,29,00,2-01-07-01-29-00
+Arab Council for Medical Specializations,المجلس العربي للأختصاصات الطبية ,2,01,07,01,30,00,2-01-07-01-30-00
+Arab Fund for Health Development,الصندوق العربي للتنمية الصحية ,2,01,07,01,31,00,2-01-07-01-31-00
+"The Arab Federation for Producers, Transportation and Electricity Distributors",الأتحاد العربي لمنتجي وناقلي وموزعي الكهرباء ,2,01,07,01,32,00,2-01-07-01-32-00
+The Council of Arab Housing and Development Ministers,مجلس وزراء الأسكان والتعمير العرب,2,01,07,01,33,00,2-01-07-01-33-00
+Union of Arab Scientific Research Councils,أتحاد مجالس البحث العلمي العربية ,2,01,07,01,34,00,2-01-07-01-34-00
+The Union of Arab Universities,أتحاد الجامعات العربية ,2,01,07,01,35,00,2-01-07-01-35-00
+Deans of the Arab Engineering Faculties Association,جمعية عمداء كليات الهندسة العربية ,2,01,07,01,36,00,2-01-07-01-36-00
+Arab Sports Union,أتحاد الرياضة العربي ,2,01,07,01,37,00,2-01-07-01-37-00
+Arab Medicine Colleges Association,جمعية كليات الطب العربية,2,01,07,01,38,00,2-01-07-01-38-00
+Arab Veterinary Medicine Association,جمعية كليات الطب البيطري العربية,2,01,07,01,39,00,2-01-07-01-39-00
+Union of the deans of Arab literature colleges,أتحاد عمداء كليات الآداب العرب ,2,01,07,01,40,00,2-01-07-01-40-00
+The Arab Universities Union of the College of Pharmacy,أتحاد الجامعات العربية لكلية الصيدلة ,2,01,07,01,41,00,2-01-07-01-41-00
+"Association of Colleges, Sections and Institutes of Arab Physical Education",جمعية كليات وأقسام ومعاهد التربية الرياضية العربية ,2,01,07,01,42,00,2-01-07-01-42-00
+The Arab Council for Training of Arab Universities,المجلس العربي لتدريب طلاب الجامعات العربية ,2,01,07,01,43,00,2-01-07-01-43-00
+Arab Agriculture Colleges Association,جمعية كليات الزراعة العربية ,2,01,07,01,44,00,2-01-07-01-44-00
+Association of Arab Colleges of Education,جمعية كليات التربية العربية ,2,01,07,01,45,00,2-01-07-01-45-00
+Arab Faculties Association,جمعية كليات القانون العربية ,2,01,07,01,46,00,2-01-07-01-46-00
+Arab Dental Colleges Association,جمعية كليات طب الأسنان العربية ,2,01,07,01,47,00,2-01-07-01-47-00
+The General Assembly of Arab Computer and Informatics Colleges,الجمعية العمومية لكليات الحاسبات والمعلوماتية العربية ,2,01,07,01,48,00,2-01-07-01-48-00
+The Arab Union for Transport,الأتحاد العربي للنقل ,2,01,07,01,49,00,2-01-07-01-49-00
+The Union of Arab Maritime Ports,أتحاد الموانئ البحرية العربية ,2,01,07,01,50,00,2-01-07-01-50-00
+Arab Academy for Maritime Transport,الأكاديمية العربية للنقل البحري ,2,01,07,01,51,00,2-01-07-01-51-00
+The Arab Federation of Iron Racte,الأتحاد العربي لسكك الحديد ,2,01,07,01,52,00,2-01-07-01-52-00
+Technical Secretariat of the Council of Ministers of Social Affairs,الأمانة الفنية لمجلس وزراء الشؤون الأجتماعية ,2,01,07,01,53,00,2-01-07-01-53-00
+ Arab Federation Federation, الاتحاد العربي للاسمدة                                                ,2,01,07,01,54,00,2-01-07-01-54-00
+ Naif University of Security Sciences, جامعة نايف للعلوم الامنية                                             ,2,01,07,01,55,00,2-01-07-01-55-00
+ Supporting the Secretariat of the Cabinet concerned for electricity affairs, دعم امانة مجلس الوزراءالمعنيين لشؤون الكهرباء                         ,2,01,07,01,56,00,2-01-07-01-56-00
+ Arab Justice Ministers, مجلس  وزراء العدل العرب                                               ,2,01,07,01,57,00,2-01-07-01-57-00
+ Deans of the Faculties of Physical Education, اتحاد عمداء كليات التربية الرياضية                                    ,2,01,07,01,58,00,2-01-07-01-58-00
+ Association of Nursing Faculties in Arab Universities, جمعية كليات التمريض في الجامعات العربية                               ,2,01,07,01,59,00,2-01-07-01-59-00
+ Arab Music Complex, المجمع العربي للموسيقى                                                ,2,01,07,01,60,00,2-01-07-01-60-00
+ Arab regional branch of documents in Tunisia, الفرع الاقليمي العربي للوثائق في تونس                                 ,2,01,07,01,61,00,2-01-07-01-61-00
+ The contribution of the Olympic Committee to the Arab Federations, مساهمة اللجنة الاولمبية في الاتحادات العربية                          ,2,01,07,01,62,00,2-01-07-01-62-00
+ Iraq's contribution to the Islamic Solidarity Fund for Development, مساهمة العراق في صندوق التضامن الاسلامي للتنمية                       ,2,01,07,01,63,00,2-01-07-01-63-00
+ Iraq's contribution to the Arab Police Federation, مساهمة العراق في الاتحاد العربي للشرطة                                ,2,01,07,01,64,00,2-01-07-01-64-00
+ The Transitional Arab Parliamentary Union, الاتحاد البرلماني العربي الانتقالي                                    ,2,01,07,01,65,00,2-01-07-01-65-00
+ Arab Fund for Youth and Sports Activities, الصندوق العربي للانشطة الشبابية والرياضية                             ,2,01,07,01,66,00,2-01-07-01-66-00
+ The Council of Arab Ministers of Youth and Sports, مجلس  وزراء الشباب والرياضة العرب                                     ,2,01,07,01,67,00,2-01-07-01-67-00
+ Arab Monetary Fund, صندوق النقد العربي                                                    ,2,01,07,01,68,00,2-01-07-01-68-00
+ Arab World Institute, معهد العالم العربي                                                    ,2,01,07,01,69,00,2-01-07-01-69-00
+ Treaty of non -proliferation of biological weapons, معاهدة عدم انتشار الاسلحة البايولوجية                                 ,2,01,07,01,70,00,2-01-07-01-70-00
+ The Islamic Network for Space Technology, الشبكة الاسلامية لتكنلوجيا الفضاء                                     ,2,01,07,01,71,00,2-01-07-01-71-00
+ The Committee for the Standing of Scientific and Technological Cooperation in the Islamic Conference Organization, اللجنةالدائمةحول التعاون العلمي والتكنلوجي في منظمةالمؤتمرالاسلامي    ,2,01,07,01,72,00,2-01-07-01-72-00
+ The Arab Academy for Science and Technology, الاكاديمية العربية للعلوم والتكنلوجيا                                 ,2,01,07,01,73,00,2-01-07-01-73-00
+ Arab Air Transport Federation, الاتحاد العربي للنقل الجوي                                            ,2,01,07,01,74,00,2-01-07-01-74-00
+ Arab Water Council, المجلس العربي للمياه                                                  ,2,01,07,01,75,00,2-01-07-01-75-00
+ Union of Arab countries broadcasts, اتحاد اذاعات الدول العربية                                            ,2,01,07,01,76,00,2-01-07-01-76-00
+ Administration of family and child, ادارةالاسرةوالطفولةلدعم الاستراتيجيةالعربيةلتنمية لغة الطفل           ,2,01,07,01,77,00,2-01-07-01-77-00
+ Arab Translation Financing Fund for International Standardization (ISO), صندوق تمويل الترجمة العربية للمواصفات العالمية(اي اس او)              ,2,01,07,01,78,00,2-01-07-01-78-00
+" Arab Economic, Development and Social Summit", القمةالعربية الاقتصادية والتنموية والاجتماعية                         ,2,01,07,01,79,00,2-01-07-01-79-00
+ The Council of Arab Transport Ministers, مجلس  وزراء النقل العرب                                               ,2,01,07,01,80,00,2-01-07-01-80-00
+ Arab Federation of Cement and Building Materials, الاتحاد العربي للاسمنت ومواد البناء                                   ,2,01,07,01,81,00,2-01-07-01-81-00
+ Arab Federation for Dermatology, الاتحاد العربي للصناعات الجلدية                                       ,2,01,07,01,82,00,2-01-07-01-82-00
+ Arab Federation for Textile Industries, الاتحاد العربي للصناعات النسيجية                                      ,2,01,07,01,83,00,2-01-07-01-83-00
+ Arab Fund for Sports, الصندوق العربي للرياضة                                                ,2,01,07,01,84,00,2-01-07-01-84-00
+ United Arab Navigation Company, شركة الملاحة العربية المتحدة                                          ,2,01,07,01,85,00,2-01-07-01-85-00
+ Divide the Arab Higher Institute in Paris, مستحقات المعهد العالي العربي في باريس                                 ,2,01,07,01,86,00,2-01-07-01-86-00
+ Arab Federation to combat forgery and forgery, الاتحاد العربي لمكافحة التزوير والتزييف                               ,2,01,07,01,87,00,2-01-07-01-87-00
+ Arab League - Baghdad Office, الجامعة العربية ـ مكتب بغداد                                          ,2,01,07,01,88,00,2-01-07-01-88-00
+ Arab Federation for Libraries and Information, الاتحاد العربي للمكتبات والمعلومات                                    ,2,01,07,01,89,00,2-01-07-01-89-00
+ The General Assembly of Arab Computers and Informatics Colleges, الجمعية العمومية لكليات الحاسبات والمعلوماتيةالعربية                  ,2,01,07,01,90,00,2-01-07-01-90-00
+ Scientific Committee for Arab Rights Faculties, اللجنة العلمية لكليات الحقوق العربية                                  ,2,01,07,01,91,00,2-01-07-01-91-00
+ The Union of Arab Scientific Linguistic Councils, اتحاد المجامع اللغوية العلمية العربية                                 ,2,01,07,01,92,00,2-01-07-01-92-00
+ The contribution of higher education and scientific research in the Arab Council for Medical Specializations, مساهمةالتعليم العالي والبحث العلمي في المجلس العربي للاختصاصات الطبية ,2,01,07,01,93,00,2-01-07-01-93-00
+ The contribution of higher education and scientific research in the Arab Organization for Education and Science, مساهمةالتعليم العالي والبحث العلمي في المنظمةالعربيةللتربيةوالثقافةوالعلوم                                 ,2,01,07,01,94,00,2-01-07-01-94-00
+ The contribution of higher education and scientific research in the Arab Organization for Administrative Development, مساهمةالتعليم العالي والبحث العلمي في المنظمة العربية للتنمية الادارية,2,01,07,01,95,00,2-01-07-01-95-00
+ Saudi Library and Information Association, جمعية المكتبات والمعلومات السعودية                                    ,2,01,07,01,96,00,2-01-07-01-96-00
+ Arab Faculties Association, جمعية كليات الآداب العربية                                            ,2,01,07,01,97,00,2-01-07-01-97-00
+ Arab Veterinary Medicine Association, جمعية كليات الطب البيطري العربية                                      ,2,01,07,01,98,00,2-01-07-01-98-00
+ Association of the College of Science in Arab Universities, جمعية كلية العلوم في الجامعات العربية                                 ,2,01,07,01,99,00,2-01-07-01-99-00
+ Arab Fund for Economic and Social Development, الصندوق العربي للانماء الاقتصادي والاجتماعي                           ,2,01,07,01,100,00,2-01-07-01-100-00
+ Arab Sports Federation, الاتحاد الرياضي العربي                                                ,2,01,07,01,101,00,2-01-07-01-101-00
+ Iraq's contribution to the budget of the Arab Women Organization, مساهمة العراق في موازنة منظمة المرأة العربية                          ,2,01,07,01,102,00,2-01-07-01-102-00
+ The contribution of the Arab Water Studies and Security Center, مساهمة مركز الدراسات والامن المائي العربي                             ,2,01,07,01,103,00,2-01-07-01-103-00
+ Arab Statistics Union, اتحاد الاحصائيين العرب                                                ,2,01,07,01,104,00,2-01-07-01-104-00
+ The Scientific Association of Pharmacy Faculties in the Arab world, الجمعية العلمية لكليات الصيدلة في الوطن العربي                        ,2,01,07,01,105,00,2-01-07-01-105-00
+ Association of Colleges or Institutions of Literature and Humanities, جمعية كليات أو مؤسسات الاداب والعلوم الانسانية                        ,2,01,07,01,106,00,2-01-07-01-106-00
+ Palestinian Studies Corporation, مؤسسة الدراسات الفلسطينية                                             ,2,01,07,01,107,00,2-01-07-01-107-00
+ The Arab Investment Conservation Corporation, المؤسسة العربية لضمان الاستثمار                                       ,2,01,07,01,108,00,2-01-07-01-108-00
+The contribution of the Arab Federation for Measurement and Calibration,مساهمة الاتحاد العربي للقياس والمعايرة,2,01,07,01,109,00,2-01-07-01-109-00
+The contribution of the Republic of Iraq to the reward of the former Secretary -General of the League of Arab States,مساهمة جمهورية العراق في مكافأة الامين العام السابق لجامعة الدول العربية,2,01,07,01,110,00,2-01-07-01-110-00
+Scientific Council for nursing specialties,المجلس العلمي للأختصاصات التمريضية,2,01,07,01,111,00,2-01-07-01-111-00
+Association of Trustees working for Arab parliaments,رابطة الأمناء العاملين للبرلمانات العربية,2,01,07,01,112,00,2-01-07-01-112-00
+International contributions,المساهمات الدولية ,2,01,07,02,00,00,2-01-07-02-00-00
+Contribute to the budget of the United Nations,المساهمة في موازنة الامم المتحدة ,2,01,07,02,01,00,2-01-07-02-01-00
+"The United Nations Educational, Cultural and Science / UNESCO / UNESCO",منظمة الامم المتحدة للتربية والثقافة والعلوم / اليونسكو,2,01,07,02,02,00,2-01-07-02-02-00
+World Tourism Organization,المنظمة العالمية للسياحة ,2,01,07,02,03,00,2-01-07-02-03-00
+United Nations Food and Agriculture Organization,منظمة الاغذية والزراعة للامم المتحدة ,2,01,07,02,04,00,2-01-07-02-04-00
+Contribution to the desert locust control body,المساهمة في هيئة مكافحة الجراد الصحراوي ,2,01,07,02,05,00,2-01-07-02-05-00
+International Organization for Irrigation and Pmels,المنظمة الدولية للري والبزل ,2,01,07,02,06,00,2-01-07-02-06-00
+International Organization for Higher Dams,المنظمة الدولية للسدود العالية ,2,01,07,02,07,00,2-01-07-02-07-00
+Organization of Exporting Countries / OPEC,منظمة الدول المصدرة للنفط / الاوبك ,2,01,07,02,08,00,2-01-07-02-08-00
+International Seed Federation (ESTE),الاتحاد الدولي لفحص البذور (ESTE),2,01,07,02,09,00,2-01-07-02-09-00
+Baghdad Office for the United Nations Food and Agriculture Organization,مكتب بغداد لمنظمة الغذاء والزراعة للامم المتحدة ,2,01,07,02,10,00,2-01-07-02-10-00
+The International Organization for the High Financial and Accounting Control Pur,المنظمة الدولية للاجهزة العليا للرقابة المالية والمحاسبية - الانتوساي ,2,01,07,02,11,00,2-01-07-02-11-00
+Islamic capitals and cities organization,منظمة العواصم والمدن الاسلامية ,2,01,07,02,12,00,2-01-07-02-12-00
+International Civil Aviation Organization (ICWA),منظمة الطيران المدني الدولية (ايكاوا),2,01,07,02,13,00,2-01-07-02-13-00
+Contributing to the budget of the Union of Agricultural Research Institutions in the Near East and North Africa,المساهمة في ميزانية اتحاد مؤسسات البحوث الزراعية في الشرق الادنى وشمال افريقيا ,2,01,07,02,14,00,2-01-07-02-14-00
+The desert locust control committee,لجنة مكافحة الجراد الصحراوي ,2,01,07,02,15,00,2-01-07-02-15-00
+Regional Center for Rural Development in the Near East,المركز الاقليمي للتنمية الريفية في الشرق الادنى ,2,01,07,02,16,00,2-01-07-02-16-00
+British white sugar organization,منظمة السكر الابيض البريطانية ,2,01,07,02,17,00,2-01-07-02-17-00
+International Exhibitions Union,اتحاد المعارض الدولية ,2,01,07,02,18,00,2-01-07-02-18-00
+WTO,منظمة التجارة العالمية ,2,01,07,02,19,00,2-01-07-02-19-00
+The International Animal Health Organization (OET),المنظمة الدولية للصحة الحيوانية (OET),2,01,07,02,20,00,2-01-07-02-20-00
+Global Scout Organization,المنظمة الكشفية العالمية ,2,01,07,02,21,00,2-01-07-02-21-00
+ The United Nations Environment / UNIP Program, برنامج الامم المتحدة للبيئة / اليونب,2,01,07,02,22,00,2-01-07-02-22-00
+Islamic Development Network and Water Resources Management,الشبكة الاسلامية للتنمية وادارة مصادر المياه ,2,01,07,02,23,00,2-01-07-02-23-00
+International Maritime Organization (EMO),المنظمة البحرية الدولية (EMO),2,01,07,02,24,00,2-01-07-02-24-00
+International Atomic Energy Organization Agency,الوكالة الدولية لمنظمة الطاقة الذرية ,2,01,07,02,25,00,2-01-07-02-25-00
+The biological weapons treaty,معاهدة الاسلحة البايولوجية ,2,01,07,02,26,00,2-01-07-02-26-00
+Cooperation Fund for Islamic Capitals and Cities Organization,صندوق التعاون لمنظمة العواصم والمدن الاسلامية ,2,01,07,02,27,00,2-01-07-02-27-00
+United Cities Organization / International Federation for Equally Cities,منظمة المدن المتحدة / الاتحاد الدولي للمدن المتوائمة ,2,01,07,02,28,00,2-01-07-02-28-00
+Contribute to the Islamic Conference,المساهمة في المؤتمر الاسلامي ,2,01,07,02,29,00,2-01-07-02-29-00
+International Court of Law of the Sea,المحكمة الدولية لقانون البحار,2,01,07,02,30,00,2-01-07-02-30-00
+The International Federation of Telecommunications and Wireless Communications (ITU),الاتحاد الدولي للاتصالات السلكية والاسلكية (ITU),2,01,07,02,31,00,2-01-07-02-31-00
+Regional Organization for the Protection of the Marine Environment,المنظمة الاقليمية لحماية البيئة البحرية,2,01,07,02,32,00,2-01-07-02-32-00
+OPEC Fund for International Development,صندوق الاوبك للتنمية الدولية,2,01,07,02,33,00,2-01-07-02-33-00
+Global Health Organization,منظمة الصحة العالمية ,2,01,07,02,34,00,2-01-07-02-34-00
+The International Standardization Organization (ISO),المنظمة العالمية للتقييس (الآيزو),2,01,07,02,35,00,2-01-07-02-35-00
+The Asian Organization for the High Financial Supervisory Devices (Asusay),المنظمة الآسيوية للأجهزة العليا للرقابة المالية (الآسوساي),2,01,07,02,36,00,2-01-07-02-36-00
+The World Intellectual Property Organization (WIPO),المنظمة العالمية للملكية الفكرية (WIPO),2,01,07,02,37,00,2-01-07-02-37-00
+"The Center for Statistical, Economic, Social and Training for Islamic Countries",مركز الابحاث الاحصائية والاقتصادية والاجتماعية والتدريب للبلدان الاسلامية,2,01,07,02,38,00,2-01-07-02-38-00
+IEG IEG,اللجنة الدولية الكهروتقنية (IEG) ,2,01,07,02,39,00,2-01-07-02-39-00
+International Sugar Organization / Britain,منظمة السكر الدولية / بريطانيا ,2,01,07,02,40,00,2-01-07-02-40-00
+The joint box of commodities,الصندوق المشترك للسلع ,2,01,07,02,41,00,2-01-07-02-41-00
+Islamic Center for Trade Development,المركز الأسلامي لتنمية التجارة ,2,01,07,02,42,00,2-01-07-02-42-00
+International Investment Assurance Agency (Miga),الوكالة الدولية لضمان الأستثمار (MIGA),2,01,07,02,43,00,2-01-07-02-43-00
+The Islamic Corporation for Investment and Export Credit,المؤسسة الأسلامية لتأمين الأستثمار وائتمان الصادرات ,2,01,07,02,44,00,2-01-07-02-44-00
+The World Customs Organization,منظمة الكمارك العالمية ,2,01,07,02,45,00,2-01-07-02-45-00
+International Fund for Agricultural Development (IFAD),الصندوق الدولي للتنمية الزراعية (IFAD),2,01,07,02,46,00,2-01-07-02-46-00
+"Islamic Organization for Education, Culture and Science",المنظمة الأسلامية للتربية والثقافة والعلوم ,2,01,07,02,47,00,2-01-07-02-47-00
+The American Association for Air Survey and Remote sensitivity,الجمعية الأمريكية للمسح الجوي والتحسس النائي ,2,01,07,02,48,00,2-01-07-02-48-00
+United Nations Industrial Development Organization UNIDO,منظمة الأمم المتحدة للتنمية الصناعية اليونيدو ,2,01,07,02,49,00,2-01-07-02-49-00
+International Atomic Energy Agency / Technical Cooperation Projects,الوكالة الدولية للطاقة الذرية / مشاريع التعاون التقني ,2,01,07,02,50,00,2-01-07-02-50-00
+The Treaty of making the Middle East / a region free from weapons of mass destruction,معاهدة جعل منطقة الشرق الأوسط / منطقة خالية من أسلحة الدمار الشامل ,2,01,07,02,51,00,2-01-07-02-51-00
+The chemical weapons treaty,معاهدة الأسلحة الكيمياوية ,2,01,07,02,52,00,2-01-07-02-52-00
+Global Postal Union,الأتحاد البريدي العالمي ,2,01,07,02,53,00,2-01-07-02-53-00
+The International Association for Air Survey and Reveregies,الجمعية الدولية للمسح الجوي والتحسس النائي,2,01,07,02,54,00,2-01-07-02-54-00
+International Criminal Police Organization / Interpol,منظمة الشرطة الجنائية الدولية / الأنتربول,2,01,07,02,55,00,2-01-07-02-55-00
+International Civil Protection Organization,المنظمة الدولية للحماية المدنية ,2,01,07,02,56,00,2-01-07-02-56-00
+The American Association for the examination of materials,الجمعية الأمريكية لفحص المواد ,2,01,07,02,57,00,2-01-07-02-57-00
+International Roads Union,أتحاد الطرق الدولي ,2,01,07,02,58,00,2-01-07-02-58-00
+The American Conquest Institute,معهد الكونكريت الأمريكي ,2,01,07,02,59,00,2-01-07-02-59-00
+The universities of the Islamic world,أتحاد جامعات العالم الأسلامي ,2,01,07,02,60,00,2-01-07-02-60-00
+International Center for the Study of Conservation and Conservation of Cultural Properties,المركز الدولي لدراسة حفظ وصون الممتلكات الثقافية ,2,01,07,02,61,00,2-01-07-02-61-00
+International Committee for the Protection of World Cultural and Cultural Heritage,اللجنة الدولية لحماية التراث الثقافي والطبيعي العالمي ,2,01,07,02,62,00,2-01-07-02-62-00
+World Meteorological Organization (WMO),منظمة الارصاد الجوية العالمية (WMO),2,01,07,02,63,00,2-01-07-02-63-00
+International Labour Organization,منظمة العمل الدولية ,2,01,07,02,64,00,2-01-07-02-64-00
+ Universities Universities Union, اتحاد الجامعات العالمية                                               ,2,01,07,02,65,00,2-01-07-02-65-00
+ International Authority for the sailors, السلطة الدولية لقيعان البحار                                          ,2,01,07,02,66,00,2-01-07-02-66-00
+ Permanent Arbitration Court/The Hague, محكمة التحكيم الدائمة/لاهاي                                           ,2,01,07,02,67,00,2-01-07-02-67-00
+ Contribution to the center of the south, المساهمة في مركز الجنوب                                               ,2,01,07,02,68,00,2-01-07-02-68-00
+ Arab Federation for Food Industries, الاتحاد العربي للصناعات الغذائية                                      ,2,01,07,02,69,00,2-01-07-02-69-00
+ Contribute to the World Water Council, المساهمة في المجلس العالمي للمياه                                     ,2,01,07,02,70,00,2-01-07-02-70-00
+ Wafrasian Rural Development Organization, منظمة الافراسيوية للتنمية الريفية                                     ,2,01,07,02,71,00,2-01-07-02-71-00
+ Regional Fish HID, الهيئة الاقليمية لمصائد الاسماك                                       ,2,01,07,02,72,00,2-01-07-02-72-00
+ The International Energy Agency/Normal Budget, الوكالةالدولية للطاقةالذرية/الميزانيةالاعتيادية                       ,2,01,07,02,73,00,2-01-07-02-73-00
+ International Scientific Research Councils Federation/Paris, اتحاد مجالس البحث العلمي العالمي/باريس                                ,2,01,07,02,74,00,2-01-07-02-74-00
+ International Music Council, المجلس الدولي للموسيقى                                                ,2,01,07,02,75,00,2-01-07-02-75-00
+ International Documentation Council/France, المجلس الدولي للوثائق/فرنسا                                           ,2,01,07,02,76,00,2-01-07-02-76-00
+ Film Organization, منظمة افلام                                                           ,2,01,07,02,77,00,2-01-07-02-77-00
+ Permanent Committee for Global Technical Cooperation/Committek, اللجنة الدائمة للتعاون الفني العالمي/الكومستك                         ,2,01,07,02,78,00,2-01-07-02-78-00
+ The International Center for Genetic Engineering and Biological Technologies, المركز الدولي للهندسة الوراثيةوالتقنيات الاحيائية                     ,2,01,07,02,79,00,2-01-07-02-79-00
+ International Seismic Center/ ISC, المركز الدولي للزلازل/ اي.سي.سي                                       ,2,01,07,02,80,00,2-01-07-02-80-00
+ The contribution of the Olympic Community to the international and Asian federations, مساهمةاللجنةالاولمبيةفي الاتحادات الدولية والآسيوية                   ,2,01,07,02,81,00,2-01-07-02-81-00
+ The contribution of the House of Representatives to the International Parliamentary Union, مساهمة مجلس النواب في الاتحاد البرلماني الدولي                        ,2,01,07,02,82,00,2-01-07-02-82-00
+ The General Secretariat of Parliament, رابطة الامناء العامين للبرلمان                                        ,2,01,07,02,83,00,2-01-07-02-83-00
+ Group of 77 and China, مجموعة ال77 والصين                                                    ,2,01,07,02,84,00,2-01-07-02-84-00
+ The contribution of the House of Representatives to the Organization of the Islamic Conference, مساهمة مجلس النواب في منظمة المؤتمر الاسلامي                          ,2,01,07,02,85,00,2-01-07-02-85-00
+ Peacekeeping operations, عمليات حفظ السلام                                                     ,2,01,07,02,86,00,2-01-07-02-86-00
+ International Court, المحكمة الدولية                                                       ,2,01,07,02,87,00,2-01-07-02-87-00
+" Research Center for Islamic History, Arts and Culture/Istanbul", مركزالابحاث للتاريخ والفنون والثقافة الاسلامية/اسطنبول                ,2,01,07,02,88,00,2-01-07-02-88-00
+ Mitting Agreement BBM Agreement, اتفاقية المتر بي.اي.بي.ام                                             ,2,01,07,02,89,00,2-01-07-02-89-00
+ Iraq's contribution to the international environment agreement, مساهمةالعراق في اتفاقيةالبيئةالدولية                                  ,2,01,07,02,90,00,2-01-07-02-90-00
+ International Air Transport Federation, الاتحاد الدولي للنقل الجوي                                            ,2,01,07,02,91,00,2-01-07-02-91-00
+ The contribution of the General Airlines Company to the Tourism Organization, مساهمة الشركة العامة للخطوط الجوية العراقيةفي منظمة السياحة           ,2,01,07,02,92,00,2-01-07-02-92-00
+ The International Railways Federation UK, الاتحاد الدولي للسكك الحديد يو.اي.في                                  ,2,01,07,02,93,00,2-01-07-02-93-00
+ International Rail Transport Authority C.IT, الهيئة الدولية للنقل بالسكك الحديد سي.اي.تي                           ,2,01,07,02,94,00,2-01-07-02-94-00
+ The Convention on the Prohibition of Physiological Weapons, اتفاقية حظر الاسلحة البايولوجية                                       ,2,01,07,02,95,00,2-01-07-02-95-00
+ Science and Technology Center for Non -Aligned Movement, مركز العلوم والتكنلوجيا لحركة عدم الانحياز                            ,2,01,07,02,96,00,2-01-07-02-96-00
+ Ikrum Organization, منظمة الايكروم                                                        ,2,01,07,02,97,00,2-01-07-02-97-00
+ Scientific Heritage Committee, لجنة التراث العلمي                                                    ,2,01,07,02,98,00,2-01-07-02-98-00
+ Iraq's contribution to the United Nations Population Fund, مساهمة العراق في صندوق الامم المتحدة للسكان                           ,2,01,07,02,99,00,2-01-07-02-99-00
+ Iraq’s participation in the International Council of Olive Oil, اشتراك العراق في المجلس الدولي لزيت الزيتون                           ,2,01,07,02,100,00,2-01-07-02-100-00
+ Global Energy Forum, منتدى الطاقة العالمي                                                  ,2,01,07,02,101,00,2-01-07-02-101-00
+ Islamic jurisprudence complex, مجمع الفقه الاسلامي                                                   ,2,01,07,02,102,00,2-01-07-02-102-00
+ Islamic Network for Agriculture, الشبكة الاسلامية للزراعة                                              ,2,01,07,02,103,00,2-01-07-02-103-00
+ International Carasa Association, الجمعية العالمية للكري                                                ,2,01,07,02,104,00,2-01-07-02-104-00
+ The Urgent Mail Cooperation of the Global Postal Union, تعاون البريد العاجل التابع للاتحاد البريدي العالمي                    ,2,01,07,02,105,00,2-01-07-02-105-00
+ Rapper, الرايب                                                                ,2,01,07,02,106,00,2-01-07-02-106-00
+ International Military Disorder Committee, اللجنة الدولية للشطب العسكري                                          ,2,01,07,02,107,00,2-01-07-02-107-00
+ The Financial Fund for Sizem, الصندوق المالي للسيزم                                                 ,2,01,07,02,108,00,2-01-07-02-108-00
+ The International Islamic Corporation for Commerce Finance, المؤسسة الدولية الاسلامية لتمويل التجارة                              ,2,01,07,02,109,00,2-01-07-02-109-00
+ Treaty of the Comprehensive Blore for Nuclear Tests, معاهدة الحظر الشامل للتجارب النووية                                   ,2,01,07,02,110,00,2-01-07-02-110-00
+ The International Cammic Horriphement Office, المكتب الدولي للتعريفة الكمركية                                       ,2,01,07,02,111,00,2-01-07-02-111-00
+ Iraq's contribution to the payment agreement to control smoking, مساهمةالعراق في الاتفاقيةالاطارية للسيطرة على التدخين                 ,2,01,07,02,112,00,2-01-07-02-112-00
+ International Confederation of Cambpsy, الاتحاد الدولي للجاموس                                                ,2,01,07,02,113,00,2-01-07-02-113-00
+ Iraq's contribution to the African and Arab countries forum, مساهمة العراق في منتدى افريقيا والدول العربية                         ,2,01,07,02,114,00,2-01-07-02-114-00
+ The contribution of Iraq to the Organization, مساهمة العراق في منظمة ام زت سي سي(مشروع الامراض حيوانية المنشأ)      ,2,01,07,02,115,00,2-01-07-02-115-00
+ Islamic Foundation for the Development of the Private Sector with international obligations, المؤسسة الاسلامية لتنمية القطاع الخاص بالالتزامات الدولية             ,2,01,07,02,116,00,2-01-07-02-116-00
+ International Trading Organization for Laboratory Accreditation, منظمة التداول الدولي لاعتماد المختبرات                                ,2,01,07,02,117,00,2-01-07-02-117-00
+ International Committee for Legal Technology, اللجنة الدولية للمترولوجيا القانونية                                  ,2,01,07,02,118,00,2-01-07-02-118-00
+ Advertising mail forum, منتدى البريد الدعائي                                                  ,2,01,07,02,119,00,2-01-07-02-119-00
+ The contribution of the use of satellite Arabsat, مساهمة استخدام القمر الصناعي عربسات                                   ,2,01,07,02,120,00,2-01-07-02-120-00
+ The Central Office of Railways Transport (OSI), المكتب المركزي للنقل بالسكك الحديد(او.سي.تي.آي)                       ,2,01,07,02,121,00,2-01-07-02-121-00
+ The Islamic Federation for the owners of the ships, الاتحاد الاسلامي لمالكي البواخر                                       ,2,01,07,02,122,00,2-01-07-02-122-00
+ The joint box of commodities, الصندوق المشترك للسلع                                                 ,2,01,07,02,123,00,2-01-07-02-123-00
+ The contribution of the Shiite endowment to the Islamic Fiqh Complex and the Organization of the Islamic Conference, مساهمة الوقف الشيعي في مجمع الفقه الاسلامي ومنظمة المؤتمر الاسلامي    ,2,01,07,02,124,00,2-01-07-02-124-00
+ International Surveyor Federation, الاتحاد الدولي للمساحين                                               ,2,01,07,02,125,00,2-01-07-02-125-00
+ IEEE International Organization, منظمة IEEE العالمية                                                   ,2,01,07,02,126,00,2-01-07-02-126-00
+" The contribution of higher education and scientific research at the United Nations Educational, Culture and Science Organization", مساهمةالتعليم العالي والبحث العلمي في منظمةامم المتحدةللتربيةوالثقافةوالعلوم                        ,2,01,07,02,127,00,2-01-07-02-127-00
+ The Federation of Arab European Universities, اتحاد الجامعات العربية الاوربية                                       ,2,01,07,02,128,00,2-01-07-02-128-00
+ Islamic Development Bank, البنك الاسلامي للتنمية                                                ,2,01,07,02,129,00,2-01-07-02-129-00
+ International Accreditation Forum, المنتدى الدولي للاعتماد                                               ,2,01,07,02,130,00,2-01-07-02-130-00
+ Regional Oversight Agency for the Middle East, وكالة الرقابة الاقليمية للشرق الاوسط                                  ,2,01,07,02,131,00,2-01-07-02-131-00
+ Ayala National Organization, منظمة أيالا الوطنية                                                   ,2,01,07,02,132,00,2-01-07-02-132-00
+ Global theater Institute, المعهد العالمي للمسرح                                                 ,2,01,07,02,133,00,2-01-07-02-133-00
+ International Development Corporation, مؤسسة الانماء الدولية                                                 ,2,01,07,02,134,00,2-01-07-02-134-00
+ Iraq is in the Al -Aqsa and Jerusalem Fund at the Islamic Development Bank, حصةالعراق في صندوقي الاقصى والقدس لدىالبنك الاسلامي للتنمية           ,2,01,07,02,135,00,2-01-07-02-135-00
+ International Agency for Renewable Energy, الوكالة الدولية للطاقات المتجددة                                      ,2,01,07,02,136,00,2-01-07-02-136-00
+ The African Caspical Organization for Legal Consulting, المنظمةالاسيويةالافريقية للاستشارات القانونية                         ,2,01,07,02,137,00,2-01-07-02-137-00
+ The United Nations Agency for relief and operation of Palestinian refugees (UNRWA), وكالةالامم المتحدةلاغاثةوتشغيل اللاجئين الفلسطينيين(الانروا)          ,2,01,07,02,138,00,2-01-07-02-138-00
+ NATO credit fund, صندوق أئتمان بعثة الناتو                                              ,2,01,07,02,139,00,2-01-07-02-139-00
+ International Federation International Federation, الاتحادالرياضي الدولي                                                 ,2,01,07,02,140,00,2-01-07-02-140-00
+The contribution of the Ministry of Science and Technology to UNESCO,مساهمة وزارة العلوم والتكنولوجيا في منظمة اليونسكو,2,01,07,02,141,00,2-01-07-02-141-00
+Islamic Environmental Network for Science and Space Technology,الشبكة البيئية الاسلامية للعلوم وتكنولوجيا الفضاء,2,01,07,02,142,00,2-01-07-02-142-00
+"The World Federation for Laboratory, Structural Materials, Systems and Hays",الاتحاد العالمي للمختبرات والمواد الانشائية والنظم والهياكل,2,01,07,02,143,00,2-01-07-02-143-00
+American Complex for tests and materials,المجمع الامريكي للفحوصات والمواد,2,01,07,02,144,00,2-01-07-02-144-00
+The American Association for External Roads and Transport Responsibility,الجمعية الامريكية للطرق الخارجية ومسؤوليات النقل,2,01,07,02,145,00,2-01-07-02-145-00
+The cradle of asphalt techniques,مهد تقنيات الاسفلت,2,01,07,02,146,00,2-01-07-02-146-00
+Intangible Heritage Committee,لجنة التراث غير المادي,2,01,07,02,147,00,2-01-07-02-147-00
+The contribution of the Shiite endowment to the Islamic Solidarity Fund,مساهمة الوقف الشيعي في صندوق التضامن الاسلامي,2,01,07,02,148,00,2-01-07-02-148-00
+Historical Cities Organization,منظمة المدن التاريخية,2,01,07,02,149,00,2-01-07-02-149-00
+The contribution of higher education to the Standing Committee for Scientific and Technological Cooperation / Komsk,مساهمة التعليم العالي في اللجنة الدائمة للتعاون العلمي والتكنولوجي / كومسك,2,01,07,02,150,00,2-01-07-02-150-00
+The contribution of higher education and scientific research at the Islamic University of Technology in Dhaka,مساهمة التعليم العالي والبحث العلمي في الجامعة الاسلامية للتكنولوجيا في دكا,2,01,07,02,151,00,2-01-07-02-151-00
+International Federation of Local Cities and Governments,الاتحاد الدولي للمدن والحكومات المحلية,2,01,07,02,152,00,2-01-07-02-152-00
+Islamic Information Technology Network,الشبكة الاسلامية لتقنية المعلومات,2,01,07,02,153,00,2-01-07-02-153-00
+Arab aid,المساعدات العربية ,2,01,07,03,00,00,2-01-07-03-00-00
+Foreign aid,المساعدات الاجنبية,2,01,07,04,00,00,2-01-07-04-00-00
+Private programs,البرامج الخاصة,2,01,08,00,00,00,2-01-08-00-00-00
+Training programs,البرامج التدريبية,2,01,08,01,00,00,2-01-08-01-00-00
+Health programs,البرامج الصحية,2,01,08,02,00,00,2-01-08-02-00-00
+Ministry of Justice programs,برامج وزارة العدل,2,01,08,03,00,00,2-01-08-03-00-00
+Social programs,البرامج الاجتماعية,2,01,08,04,00,00,2-01-08-04-00-00
+Cultural and artistic programs,البرامج الثقافية والفنية,2,01,08,05,00,00,2-01-08-05-00-00
+Youth and Sports Programs,برامج الشباب والرياضة,2,01,08,06,00,00,2-01-08-06-00-00
+Educational and educational programs,البرامج التعليمية والتربوية,2,01,08,07,00,00,2-01-08-07-00-00
+Programs for security and motivation,البرامج الخاصة بالأمن وادفاع,2,01,08,08,00,00,2-01-08-08-00-00
+Scientific programs,البرامج العلمية,2,01,08,09,00,00,2-01-08-09-00-00
+Social Welfare (salaries and pension rewards),الرعاية الاجتماعية (الرواتب والمكافآت التقاعدية),2,01,09,00,00,00,2-01-09-00-00-00
+Salaries and pension bonuses,الرواتب والمكافآت التقاعدية,2,01,09,01,00,00,2-01-09-01-00-00
+Retirement (civil) salaries,الرواتب التقاعدية (المدنية),2,01,09,01,01,00,2-01-09-01-01-00
+Retirement rewards (civil),المكافات التقاعدية (المدنية),2,01,09,01,02,00,2-01-09-01-02-00
+Retirement (military) salaries,الرواتب التقاعدية (العسكرية),2,01,09,01,03,00,2-01-09-01-03-00
+Retired (military) bonuses,المكافات التقاعدية (العسكرية),2,01,09,01,04,00,2-01-09-01-04-00
+Retirement salaries for those covered by social security,الرواتب التقاعدية للمشمولين بالضمان الاجتماعي,2,01,09,01,05,00,2-01-09-01-05-00
+The retirement rewards for those covered by social security,المكافآت التقاعدية للمشمولين بالضمان الاجتماعي,2,01,09,01,06,00,2-01-09-01-06-00
+The accumulated salaries for the martyrs,الرواتب المتراكمة للشهداء,2,01,09,01,07,00,2-01-09-01-07-00
+Accumulated salaries,رواتب متراكمة للشهداء,2,01,09,01,07,01,2-01-09-01-07-01
+The accumulated regular leave salaries,رواتب الاجازات الاعتيادية المتراكمة,2,01,09,01,07,02,2-01-09-01-07-02
+Social aid,المساعدات الاجتماعية,2,01,09,02,00,00,2-01-09-02-00-00
+Social Protection Network,شبكة الحماية الأجتماعية,2,01,09,02,01,00,2-01-09-02-01-00
+Military suits,بدلات العسكريين ,2,01,09,02,02,00,2-01-09-02-02-00
+General distribution system,نظام التوزيع العام ,2,01,09,02,03,00,2-01-09-02-03-00
+Relief and social aid for the displaced,الاغاثة والمعونة الاجتماعية للمهجرين,2,01,09,02,04,00,2-01-09-02-04-00

@@ -1,0 +1,9 @@
+Current State,User Currently With,Status
+saved,Accounting Unit,Not Submitted
+reviewed_and_submitted_by_treasury_auditor_to_treasury_manager,Treasury Manager,Approved
+sent_to_treasury_auditor,Treasury Auditor,Under review with TR Auditor
+rejected_by_treasury_auditor,Accounting unit - Rejected,Rejected
+returned_back_to_requester_for_question,Accounting Unit,Returned to AU for Questioning
+returned_back_to_treasury_auditor_for_question,Treasury Auditor,Under review with TR Auditor
+Submitted Report,MoFE GDPA,Completed
+sent_to_ministry_of_finance_for_reporting,MoFE GDPA,Completed
